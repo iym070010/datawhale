@@ -1,5 +1,3 @@
-# datawhale
-### 用来储存datawhale的打卡
-## 第一次：datawahle_pydata
-### task0:创建github仓库
-### task1：编写运行一遍ch04的代码
+# 计算机书籍 - 个人笔记
+## 第一次：利用python进行数据分析 - 代码笔记
+### ch04 - ch14
